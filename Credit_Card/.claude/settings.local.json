@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install *)",
+      "PowerShell(Get-DnsClientServerAddress *)",
+      "Bash(node *)",
+      "Bash(npm run *)",
+      "Bash(findstr \"\\\\\"start\\\\\"\\\\|\\\\\"dev\\\\\"\")",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\harsh\\\\OneDrive\\\\Documents\\\\Testing_with_AI\\\\Credit_Card\" -Recurse -Force)",
+      "Bash(Select-Object -Property FullName, PSIsContainer)",
+      "Bash(Sort-Object FullName)",
+      "Bash(Format-Table -AutoSize)",
+      "PowerShell(Get-Process *)"
+    ]
+  }
+}
